@@ -9,4 +9,7 @@
     .text {
         @apply text-textLight dark:text-textLight
     }
+    .menu-hamburguer {
+        @apply block absolute h-1 w-full bg-principalPurple rounded-lg opacity-100 left-0 transform transition-all ease-in-out rotate-0 origin-leftCenter
+    }
 }

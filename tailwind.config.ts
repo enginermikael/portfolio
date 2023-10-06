@@ -23,7 +23,13 @@ const config: Config = {
 			bgDark: '#1A1A1A',
 			textDark: '#FFFFFF',
 			bgLight: '#F4F4F4',
-			textLight: '#333333'
+			textLight: '#333333',
+			transparent: 'transparent'
+		},
+		extend: {
+			transformOrigin: {
+				leftCenter : 'left center'
+			},
 		}
 	},
 	plugins: [],
