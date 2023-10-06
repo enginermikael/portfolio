@@ -14,6 +14,15 @@ const config: Config = {
 			'lg': '1024px',
 			'xl': '1280px',
 			'2xl': '1536px'
+		},
+		colors: {
+			principalPurple: '#6B37BF',
+			destaqPurple: '#4A00E0',
+			ligthPurple: '#B4A7D6',
+			bgDark: '#1A1A1A',
+			textDark: '#FFFFFF',
+			bgLight: '#F4F4F4',
+			textLight: '#333333'
 		}
 	},
 	plugins: [],
